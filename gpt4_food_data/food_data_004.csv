@@ -1,0 +1,57 @@
+picture,description,calories,balance,quality,datetime,simple_sugars,complex_sugars,proteins,fats,dietary_fibers,weight,message
+001.jpg,Lettuce with carrots and dressing,161,Unbalance,Good quality,2014:10:01 12:25:47,3,20,5,10,4,300,"- Simple sugars (g): 3
+- Complex sugars (g): 20
+- Proteins (g): 5
+- Fats (g): 10
+- Dietary fibers (g): 4
+- Weight (g): 300
+- Explanation: The image displays a salad with mixed greens, shredded carrots, beets, a piece of bread, and a dressing. Based on the size of the 1 Swiss Franc coin, the amount of food on the plate can be estimated. The simple sugars are likely low, coming primarily from the beets and dressing. Complex sugars are found in the bread and the vegetables. Proteins are minimal, mainly from the possible trace amounts in the bread and vegetables. Fats are present in the dressing and possible oil in the bread. Dietary fibers are found in the mixed greens, carrots, and beets. The total weight of the meal can be estimated to be around 300 grams, considering the size comparison to the coin and the typical weight of such ingredients on a plate."
+002.jpg,"Salmon with potatoes and hollandese sauce, tomato and alfalfa sprouts",1152,Unbalance,Good quality,2014:10:01 12:40:12,5,30,35,35,4,500,"- Simple sugars (g): 5
+- Complex sugars (g): 30
+- Proteins (g): 35
+- Fats (g): 35
+- Dietary fibers (g): 4
+- Weight (g): 500
+- Explanation: The meal appears to include roasted potatoes, a piece of salmon, a sauce likely rich in fats, and garnishing that presumably includes herbs and small tomatoes. The potatoes are the primary source of complex carbohydrates with some dietary fibers. The salmon provides a high amount of protein and contains healthy omega-3 fats. The sauce contributes additional fats, some of which may be saturated, depending on its composition. Simple sugars are minimal, potentially coming from the small tomatoes. The 1 Swiss Franc coin, which is visible in the image, allows for approximate size comparison, leading to the estimation of the weight and nutritional content provided above. The meal's overall size relative to the coin suggests a moderate quantity, hence the rounded estimate of total weight."
+003.jpg,Pasta with lettuce and pepper,289,Unbalance,Good quality,2014:10:02 13:47:52,5,40,15,10,7,350,"- Simple sugars (g): 5
+- Complex sugars (g): 40
+- Proteins (g): 15
+- Fats (g): 10
+- Dietary fibers (g): 7
+- Weight (g): 350
+- Explanation: The meal depicted contains pasta, which is high in complex carbohydrates (starch), and some vegetables that provide dietary fibers. The meal appears to have a moderate amount of vegetables (bell peppers and possibly some leafy greens), contributing to the dietary fiber content. There seems to be no visible addition of heavy dressings or sauces that would significantly increase the fat content, so the fats are estimated to be moderate, likely coming from either the cooking process or any oil dressing used. Protein content is likely derived from the pasta and any potential meat or cheese ingredients which are not clearly visible but could be present. The simple sugars are estimated to be quite low as there are no obvious sweet sauces or dressings. The weight estimation considers the 1 Swiss Franc coin reference, which is not visible in this image. However, based on common plate sizes and the spread of the food, the total weight of the meal might be around 350 grams."
+004.jpg,Frites potatoes,146,Unbalance,Low quality,2014:10:02 20:51:17,5,70,30,25,6,500,"- Simple sugars (g): 5
+- Complex sugars (g): 70
+- Proteins (g): 30
+- Fats (g): 25
+- Dietary fibers (g): 6
+- Weight (g): 500
+- Explanation: The meal appears to include a serving of fries and a piece of breaded fish topped with some kind of sauce or cheese. The fries are high in complex carbohydrates due to the potatoes they are made from, while the breading on the fish and the fries provide the majority of the complex sugars in the form of starch. The fish offers proteins, and both the breading and the frying process significantly contribute to the fat content. The simple sugars are likely low, possibly coming from any sugars in the sauce or breading, while dietary fibers are minimal due to the lack of vegetables. The sauce or cheese may add some fats as well. Given that a 1 Swiss Franc coin is around 23.22 mm in diameter, assuming the plate is an average dinner plate size (approximately 280 mm in diameter), the quantity of food seems about right for the estimated weight of around 500 grams."
+005.jpg,Frites potatoes and frite fish ,599,Unbalance,Low quality,2014:10:03 14:14:58,0,45,30,20,5,500,"- Simple sugars (g): 0
+- Complex sugars (g): 45
+- Proteins (g): 30
+- Fats (g): 20
+- Dietary fibers (g): 5
+- Weight (g): 500
+- Explanation: The meal consists of breaded fried fish and roasted potatoes. There are no visible sources of simple sugars unless the potatoes are glazed with a sugar-based sauce, which is not evident. The potatoes are the primary source of complex sugars (starch). The fish, being protein-rich, contributes significantly to the protein content, and the breading adds some complex carbs as well. The cooking process likely introduces fats, both in the fish's breading and in roasting the potatoes. Given that potatoes also have dietary fibers and there appears to be no additional vegetables, the fiber content would be relatively low. The absence of the Swiss Franc coin makes it challenging to estimate the size accurately; however, assuming the plate is a standard dinner plate size (around 26-28 cm in diameter), the total weight of the meal is roughly estimated at 500 grams."
+006.jpg,Ham pizza and cooked pizza dough,842,Unbalance,Low quality,2014:10:03 20:33:41,4,40,15,20,2,350,"Simple sugars (g): 4
+Complex sugars (g): 40
+Proteins (g): 15
+Fats (g): 20
+Dietary fibers (g): 2
+Weight (g): 350
+Explanation: The meal includes a slice of pizza with tomato sauce, cheese, and what appears to be some vegetables such as olives and capers, and a bread roll. The pizza crust contributes to the complex sugars due to the starch in the dough. There is a small quantity of simple sugars in the tomato sauce. The cheese and meat toppings supply most of the protein and fats. The dietary fiber content is low, with only a small amount potentially coming from the olives and any whole grains in the crust or bread roll. Utilizing the size of the 1 Swiss Franc coin for scale, I estimate the slice of pizza to be approximately one-sixth of a medium pizza, and the bread roll is about the size of the coin. This leads to an estimation of the total meal weight to be around 350 grams, balancing the weight of the crust, toppings, and the bread roll."
+007.jpg,Proscuito pizza,864,Unbalance,Medium quality,2014:10:04 12:16:26,5,85,12,15,4,400,"- Simple sugars (g): 5
+- Complex sugars (g): 85
+- Proteins (g): 12
+- Fats (g): 15
+- Dietary fibers (g): 4
+- Weight (g): 400
+- Explanation: The image shows a pizza that appears to be individual-sized. Given the 1 Swiss Franc coin for reference, the pizza might be around 25 cm in diameter. The crust of the pizza contributes to the complex carbohydrates content, and the tomato sauce may contain some simple sugars, but these are usually low. The proteins come mostly from the cheese and ham toppings. There are visible fats from the cheese, and possibly from the ham and olive oil used in preparation. Dietary fiber is lower since the only visible sources are the tomato slices and basil leaves. The weight estimate is based on the average weight of a similar-sized pizza. Since the crust typically makes up a significant portion of the weight and toppings are variable, the estimated weight considers an average density crust with moderate toppings."
+008.jpg,Boiled rice with ham,205,Unbalance,Low quality,2014:10:04 20:11:45,0,45,10,5,1,250,"- Simple sugars (g): 0
+- Complex sugars (g): 45
+- Proteins (g): 10
+- Fats (g): 5
+- Dietary fibers (g): 1
+- Weight (g): 250
+- Explanation: The meal appears to consist mainly of white rice, with a slice of ham on top. There are no visible sources of simple sugars such as industrial sugar or honey, so that amount is negligible. White rice is a source of complex carbohydrates, so based on the portion size relative to the coin, it contains an estimated 45g of complex sugars. The ham provides protein, with an estimated 10g for a typical slice. The fat content from the ham is estimated to be around 5g, considering it is a lean cut with little visible fat. There's minimal dietary fiber present, as white rice is low in fiber, and there are no visible fruits or vegetables—estimated at 1g. The total weight of the meal is roughly estimated to be about 250g, considering the volume of the rice portion using the coin for scale comparison (the coin is not intended for absolute scale but can give a rough estimate for this context)."

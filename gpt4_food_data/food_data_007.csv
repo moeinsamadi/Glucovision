@@ -1,0 +1,170 @@
+picture,description,calories,balance,quality,datetime,simple_sugars,complex_sugars,proteins,fats,dietary_fibers,weight,message
+001.jpg,Cantaloupe and couscous,375,Unbalance,Good quality,2014:10:01 11:38:37,5,40,8,5,3,350,"Simple sugars (g): 5
+Complex sugars (g): 40
+Proteins (g): 8
+Fats (g): 5
+Dietary fibers (g): 3 
+Weight (g): 350
+Explanation: The meal on the plate appears to comprise a couscous dish and chunks of what looks like cantaloupe melon. Couscous consists mainly of complex carbohydrates, with some protein and minimal fat. The melon adds simple sugars and fibers but is low in calories. Without a coin to compare size, the estimate is based on the average portion size for a single meal. The couscous could weigh around 200 grams, while the melon could weigh about 150 grams. The nutritional content is a rough estimation, as specific preparation methods and ingredients can alter these values."
+002.jpg,Tomatoes salad with feta and bread,1137,Unbalance,Good quality,2014:10:01 11:55:34,5,30,10,15,4,250,"- Simple sugars (g): 5
+- Complex sugars (g): 30
+- Proteins (g): 10
+- Fats (g): 15
+- Dietary fibers (g): 4
+- Weight (g): 250
+- Explanation: The meal consists of whole grain bread, tomatoes, cheese, olives, and a drizzling of perhaps olive oil and herbs. Whole grain bread is a source of complex carbohydrates (starch) and the tomatoes will have some simple sugars. The cheese and olives contribute both proteins and fats. Tomatoes and olives also provide some dietary fiber. Using the 1 Swiss Franc coin as a scale reference, the diagonally placed slices of bread are relatively larger than the coin, but this is a light meal overall. I estimated the weight of the food items on the assumption that the density is akin to that of the respective food groups."
+003.jpg,"Hamburguer, zuchinni and red wine",434,Unbalance,Good quality,2014:10:01 12:35:42,0,15,30,25,5,500,"- Simple sugars (g): 0
+- Complex sugars (g): 15
+- Proteins (g): 30
+- Fats (g): 25
+- Dietary fibers (g): 5
+- Weight (g): 500
+- Explanation: The meal appears to consist of grilled zucchini and a beef patty, with a glass of red wine. The zucchini is low in simple and complex sugars but provides dietary fibers. The beef patty is a rich source of proteins and contains fats but not sugars. The wine does not contribute significantly to the nutrient content in terms of fiber, protein, or complex sugars, but it contains some simple sugars naturally present in grapes. However, since it's fermented, the content is lower than it would be in grape juice. Using the Swiss franc coin as a reference, the plate seems to be roughly 25-30cm in diameter, allowing an estimate of the food's portion size. The total meal's estimated weight accounts for the solid food components and does not include the weight of the wine."
+004.jpg,Wholegrain bread and milkchocolate,304,Unbalance,Medium quality,2014:10:01 16:24:04,5,30,4,10,3,150,"- Simple sugars (g): 5
+- Complex sugars (g): 30
+- Proteins (g): 4
+- Fats (g): 10
+- Dietary fibers (g): 3
+- Weight (g): 150
+- Explanation: In the image, there's a slice of whole grain bread and a small piece of what appears to be caramel chocolate. Whole grain bread is a source of complex carbohydrates, with minimal simple sugars, some protein, a bit of fat, and a decent amount of dietary fiber. The piece of caramel chocolate adds simple sugars and fats to the meal.
+
+Using the 1 Swiss Franc coin as a reference, which has a diameter of 23.22 mm, we can estimate the size of the bread slice and chocolate piece. Assuming that the slice of bread is about the typical size and thickness, it would weigh approximately 30-40 grams. The slice of chocolate looks like it could be about 10 grams, considering that it is much denser than the bread.
+
+Adding the estimated weights together and rounding to a single whole number, the total weight of the meal could be approximated at 150 grams. This assumes that the bread constitutes the majority of the weight, with the chocolate adding a smaller amount, while accounting for the possibility of some error in visual estimation."
+005.jpg,"wienerschnitzel, potatoes, coliflower, carrots, bread and beer",1691,Unbalance,Medium quality,2014:10:01 21:34:39,5,70,35,25,4,500,"- Simple sugars (g): 5
+- Complex sugars (g): 70
+- Proteins (g): 35
+- Fats (g): 25
+- Dietary fibers (g): 4
+- Weight (g): 500
+- Explanation: The meal consists of a breaded schnitzel, French fries, mixed vegetables (carrots, peas, and cauliflower), and a slice of bread. The schnitzel is a source of protein and fats, as the breading adds to the carbohydrate and fat count. The French fries contribute to the complex sugars with their starch content, along with some fat from frying. The mixed vegetables offer dietary fibers and some complex sugars. Simple sugars are low since there are no visible sugary sauces or dressings. The slice of bread adds to both the complex sugar and dietary fiber contents of the meal. Using the coin as a reference, the schnitzel and portion sizes can be estimated, leading to the above calculations. The total meal weight is a rough estimate considering the volume of food on the plate."
+006.jpg,"Wholegrain bread, butter and coffee",314,Unbalance,Good quality,2014:10:02 08:08:07,10,35,15,20,5,300,"- Simple sugars (g): 10
+- Complex sugars (g): 35
+- Proteins (g): 15
+- Fats (g): 20
+- Dietary fibers (g): 5
+- Weight (g): 300
+- Explanation: The image shows a breakfast with whole grain bread, cheese, and a spread (likely jam) on the side. Whole grain bread contributes to the meal's complex sugars and dietary fibers, while the cheese adds fats and proteins. The spread, assuming it is a fruit jam, would add a smaller amount of simple sugars. Using the Swiss Franc coin as a reference and assuming the bread is a standard slice, the estimated weight of the bread with cheese is about 150 grams, the jam might be around 30 grams per serving, and the remaining items (knife, butter, and cup of presumably coffee) are non-edible and thus not included in the weight calculation. The coin gives a sense of scale, but we lack full context for the size of the plate and cutlery, so this is a rough estimation."
+007.jpg,Wholegrain bread with flaxseeds,183,Unbalance,Good quality,2014:10:02 11:25:46,3,30,8,5,5,75,"- Simple sugars (g): 3
+- Complex sugars (g): 30
+- Proteins (g): 8
+- Fats (g): 5
+- Dietary fibers (g): 5
+- Weight (g): 75
+- Explanation: The image shows a whole grain roll on a plate next to a 1 Swiss Franc coin. Whole grain bread is mainly composed of complex carbohydrates due to its whole grain content. It also has a moderate amount of protein and dietary fibers, with minor amounts of naturally occurring simple sugars. There is little fat in whole grain rolls unless they contain added fats. The size of the coin (with a diameter of 23.22 mm) compared to the roll allows for an approximation of the roll's size and weight. Based on the perceived dimensions, we can infer that the roll is a portion size that is commonly consumed individually, hence the estimated weight of 75 grams, which is typical for small whole grain rolls."
+008.jpg,Farmer cerealbar and sinergy pills,420,Unbalance,Low quality,2014:10:02 17:53:17,25,5,2,5,1,100,"- Simple sugars (g): 25
+- Complex sugars (g): 5
+- Proteins (g): 2
+- Fats (g): 5
+- Dietary fibers (g): 1
+- Weight (g): 100
+- Explanation: The image appears to show three cereal bars and one piece of hard candy alongside a 1 Swiss Franc coin for scale. These items are typically high in simple sugars, especially the candy. The cereal bars may contain some complex carbohydrates due to the presence of grains but are likely to be low in dietary fiber unless they specifically state they are high fiber. Protein content in such bars is usually low, and fat content can vary depending on the ingredients (nuts, seeds, chocolate, etc.). Based on the size reference provided by the coin and the packaged nature of the products, I estimate each cereal bar weighs about 30 grams and the candy around 10 grams, making the total weight approximately 100 grams."
+009.jpg,"Lasagne, wine and chocolate ",919,Unbalance,Low quality,2014:10:02 19:22:10,5,40,20,25,3,450,"- Simple sugars (g): 5
+- Complex sugars (g): 40
+- Proteins (g): 20
+- Fats (g): 25
+- Dietary fibers (g): 3
+- Weight (g): 450
+- Explanation: The image shows lasagna which is likely high in complex carbohydrates from the pasta layers. Given the rich, melted cheese and probable meat content, it contains a moderate amount of protein and fats. The lasagna slice's size relative to the 1 Swiss Franc coin suggests it could weigh approximately 450 grams. There might be a small amount of simple sugars present in the tomato sauce or any added ingredients. The presence of three pieces of candy adds simple sugars, potentially around 5 grams if they are filled with caramel or cream. The glass of wine adds little to no fiber, protein, or fats, and contains some simple sugars due to the fermentation process that converts the grape sugars into alcohol, leaving residual sugars. It is difficult to precisely estimate the sizes without clearer references to all items' dimensions, but the meal's total weight is influenced significantly by the density of the lasagna."
+010.jpg,"Wholegrain bread, brie cheese and kiwi and coffee",433,Balance,Good quality,2014:10:03 06:54:03,3,70,12,25,8,400,"- Simple sugars (g): 3
+- Complex sugars (g): 70
+- Proteins (g): 12
+- Fats (g): 25
+- Dietary fibers (g): 8
+- Weight (g): 400
+- Explanation: This meal consists of whole grain bread, butter, jam (presumably), a kiwi, and a hot beverage, most likely coffee. The whole grain bread is an excellent source of complex sugars and dietary fibers, while the butter is high in fats. The jam adds simple sugars, though the quantity is small relative to the portion of bread. Kiwis offer some dietary fiber and a trace amount of simple sugars. The beverage, if unsweetened, would not contribute significantly to the sugar content; if there is sugar, the estimate for simple sugars would be higher. The protein content is primarily derived from the bread given the general protein content of whole grains. Using the 1 Swiss Franc coin for scale, the weight of the meal is roughly estimated at 400 grams, given the size of the plates and items on it."
+011.jpg,"Couscous, watermelon and tomato salad and ham with bread",1193,Unbalance,Good quality,2014:10:03 11:51:25,5,45,35,25,5,550,"- Simple sugars (g): 5
+- Complex sugars (g): 45
+- Proteins (g): 35
+- Fats (g): 25
+- Dietary fibers (g): 5
+- Weight (g): 550
+- Explanation: The meal consists of what appears to be cured ham, a vegetable and cheese salad, a whole grain roll, and a portion of couscous with fruit. The 1 Swiss Franc coin serves as a reference for the size of the items. The simple sugars are low, primarily from the fruit in the couscous. Complex sugars are higher due to the whole grain bread and couscous. Protein content is significant due to the ham and cheese. Fats are present in the cheese and the dressing in the salad. Dietary fibers come from the vegetables, fruit, and whole grain roll. Estimating the size of each item using the coin and accounting for standard serving sizes gives a rough weight of the overall meal."
+012.jpg,Chocolate and coffee,356,Unbalance,Medium quality,2014:10:03 14:38:07,25,3,2,12,1,100,"- Simple sugars (g): 25
+- Complex sugars (g): 3
+- Proteins (g): 2
+- Fats (g): 12
+- Dietary fibers (g): 1
+- Weight (g): 100
+- Explanation: The image contains a piece of chocolate and what appears to be a cup of espresso or a similar coffee drink. The chocolate's weight can be estimated to be roughly 50 grams, while the coffee is likely to be about 30 milliliters or approximately equal to its weight in grams due to water's density (1g/ml). The chocolate is a significant source of simple sugars and fats, with minimal proteins and dietary fiber. Coffee contains negligible amounts of macronutrients. The presented 1 Swiss Franc coin, at 23.22 mm in diameter, helps estimate the dimensions of the chocolate and the cup. Given that the size of the chocolate is about double the coin's diameter, estimating its weight becomes more reliable. The nutritional estimates are approximations given the size reference and typical nutritional values for these types of foods."
+013.jpg,Sinergy pills and olive crackers,303,Unbalance,Low quality,2014:10:03 17:12:34,0,22,3,7,2,50,"Simple sugars (g): 0
+Complex sugars (g): 22
+Proteins (g): 3
+Fats (g): 7
+Dietary fibers (g): 2
+Weight (g): 50
+Explanation: The image shows a single cracker that appears to be seasoned, which might be a type of whole grain cracker. Given its size compared to the 1 Swiss Franc coin, it's estimated to be approximately 10 cm by 10 cm. Crackers are generally low in simple sugars unless they are sweetened, which this one does not appear to be. They are primarily a source of complex carbohydrates, with a small amount of protein and fats. Depending on whether it is made from refined flour or whole grains, it may have some dietary fiber. The estimated weight is given the relative size to the coin, and knowing that a cracker is quite light. The nutritional content is a rough estimate as no specific nutritional information is available from the image."
+014.jpg,"Vegetable soup,black bread and ham. m&m package and wine",540,Balance,Low quality,2014:10:03 17:50:14,30,45,20,25,2,500,"- Simple sugars (g): 30
+- Complex sugars (g): 45
+- Proteins (g): 20
+- Fats (g): 25
+- Dietary fibers (g): 2
+- Weight (g): 500
+- Explanation: The meal includes what appears to be a slice of ham, a sandwich with whole grain bread, a side of what may be guacamole, a cup possibly containing apple sauce or similar, and a package of peanut M&Ms. The bread is a source of complex carbohydrates, while the M&Ms and the sauce likely contribute to the simple sugars content. The ham provides protein and the guacamole contributes fats, though its exact composition could vary. There seems to be little in terms of vegetables or fruits, suggesting low dietary fibers. Based on the coin, the dimensions of the items can be estimated, leading to the total weight approximation. Since there is no visible reference for scale like a Swiss Franc coin, these estimates are rough and may not represent the precise amounts."
+015.jpg,Crackers,394,Unbalance,Low quality,2014:10:03 20:35:02,2,20,3,5,1,50,"- Simple sugars (g): 2
+- Complex sugars (g): 20
+- Proteins (g): 3
+- Fats (g): 5
+- Dietary fibers (g): 1
+- Weight (g): 50
+- Explanation: In the image, we have three multigrain crackers next to a 1 Swiss Franc coin. Using the coin as a reference, each cracker appears to be approximately 5-6 cm in length and width. Given their thinness, the weight of each cracker is likely around 10-15 grams, totaling around 30-45 grams for the three crackers. The rounding leads to an approximation of 50 grams for the total weight of the meal for simplicity.
+
+Multigrain crackers are mostly composed of complex carbohydrates due to the whole grains, with a small amount of simple sugars that may come from any added sugars or honey used in the flavoring. Since they are made from grains, they contain a modest amount of protein and are low in fats. Some dietary fiber is present owing to the whole grains, but not in significant amounts when compared to vegetables or fruits.
+
+Each gram value given is a rounded approximation since the exact composition would require detailed nutritional information that is not available from the image alone. The values could vary based on the specific ingredients and recipe used by the manufacturer."
+016.jpg,Salad with fried goat cheese ,735,Unbalance,Good quality,2014:10:03 21:17:23,5,50,20,25,3,350,"Simple sugars (g): 5
+Complex sugars (g): 50
+Proteins (g): 20
+Fats (g): 25
+Dietary fibers (g): 3
+Weight (g): 350
+Explanation: The meal in question appears to consist mostly of deep-fried items which could be something like breaded cheese or meat, along with a side of salad. Given the size indicator provided by the 1 Swiss Franc coin (23.22mm in diameter), the entire meal could be estimated to weigh around 350 grams. The simple sugars are likely low and most likely come from any dressing in the salad or a sugary breading. Complex sugars are present in the breading around the fried items and potentially in the salad. Protein content could be substantial if the fried items are cheese or meat. Fats are significantly present due to the fried nature of the main items. There are modest amounts of dietary fibers from the salad greens. The meal estimate is based on average size of the plated items in relation to the coin, and reasonable nutritional estimates for fried food and salad components."
+017.jpg,Wholegrain bread with kiwi and coffee,163,Unbalance,Good quality,2014:10:04 08:25:26,5,30,5,5,3,150,"- Simple sugars (g): 5
+- Complex sugars (g): 30
+- Proteins (g): 5
+- Fats (g): 5
+- Dietary fibers (g): 3
+- Weight (g): 150
+- Explanation: There is a slice of whole grain bread, a piece of fruit (kiwi), and a coffee with what might be sugar on the side. The bread provides most of the weight and contains complex carbohydrates, a small amount of protein, and dietary fiber. The color and visible seeds of the bread suggest it is likely whole grain, which is richer in fibers. The kiwi adds simple sugars and fibers. The coffee may contribute to simple sugars if sugar is added, around a teaspoon (approximately 4 grams of sugar). No clear high-fat items are visible. Using the coin as a reference, the slice of bread could be estimated at around 30-40 grams, the kiwi 70 grams (medium size), and the coffee negligible in terms of weight if we exclude the water. Thus, the total estimated weight could be around 150 grams for the solid items, slightly more if the coffee is considered."
+018.jpg,Croissant and chocolate,206,Unbalance,Low quality,2014:10:04 09:32:45,5,30,10,18,2,120,"- Simple sugars (g): 5
+- Complex sugars (g): 30
+- Proteins (g): 10
+- Fats (g): 18
+- Dietary fibers (g): 2
+- Weight (g): 120
+- Explanation: The croissant in the image, based on its size compared to the 1 Swiss Franc coin and assuming it's a standard large croissant, appears to be fluffy and layered, which suggests a rich content of fats, mainly from the butter used in its preparation. It also contains complex sugars due to the white flour typically used. Protein content comes from the flour and butter, but the amount is relatively low. Since this is a processed pastry with no visible fillings such as fruits or whole grains, it contains minimal dietary fibers and a small quantity of simple sugars, assuming there is no additional sugar coating or sweet fillings. The total weight estimate is based on the typical weight of a large bakery croissant, with the coin giving us a reference for scale."
+019.jpg,Cracker and spiral bread,380,Unbalance,Low quality,2014:10:04 12:09:42,1,10,2,5,1,50,"- Simple sugars (g): 1
+- Complex sugars (g): 10
+- Proteins (g): 2
+- Fats (g): 5
+- Dietary fibers (g): 1
+- Weight (g): 50
+- Explanation: The meal consists of a single cracker and a twisted pastry, with limited portions making it a light snack. The cracker provides complex sugars and a small amount of protein and dietary fiber. The twisted pastry likely contributes fats and simple sugars if it's sweetened. The size of these items, in comparison to the 1 Swiss Franc coin, suggests that they are small and thus the estimated nutritional content is low. The total weight is estimated based on the size of each item compared to the coin's diameter."
+020.jpg,Cantaloupe with ham and pink wine,193,Unbalance,Good quality,2014:10:04 12:37:51,2,4,8,5,1,100,"- Simple sugars (g): 2
+- Complex sugars (g): 4
+- Proteins (g): 8
+- Fats (g): 5
+- Dietary fibers (g): 1
+- Weight (g): 100
+- Explanation: The meal consists of prosciutto-wrapped melon, which is a simple dish containing protein from the cured ham, and simple sugars mainly from the melon fruit. There are minimal fats, primarily from the prosciutto, and dietary fibers from the melon. The melon's sugars are mostly simple, with a small amount of complex sugars. There is no visible indication of added industrial sugars such as honey. The 1 Swiss Franc coin provides an indication of the size of the meal, suggesting modest portion sizes. The glass of wine accompanying the meal would add to the calorie count but is not included in this nutritional breakdown. The estimate assumes that the weight of the meal on the plate is around 100 grams based on the size of the coin and the items in relation to it."
+021.jpg,Pork with potatoes pure and sauce with harricots and ham,795,Unbalance,Medium quality,2014:10:04 13:14:25,5,20,35,25,5,400,"- Simple sugars (g): 5
+- Complex sugars (g): 20
+- Proteins (g): 35
+- Fats (g): 25
+- Dietary fibers (g): 5
+- Weight (g): 400
+- Explanation: The meal shown includes what appears to be a chicken breast covered in a creamy sauce, a portion of mashed potatoes, and a few asparagus spears wrapped in bacon. The mashed potatoes contribute most of the complex carbohydrates, while the creamy sauce may contain simple sugars. The chicken breast and bacon provide protein and fats. The asparagus offers some dietary fiber. Using the 1 Swiss Franc coin for scale, the entire meal may weigh approximately 400 grams. The nutritional estimates are based on the visible portions and typical composition of these foods."
+022.jpg,Stracciatela and caramel  icre cream,555,Unbalance,Low quality,2014:10:04 15:11:05,25,0,4,15,0,150,"- Simple sugars (g): 25
+- Complex sugars (g): 0
+- Proteins (g): 4
+- Fats (g): 15
+- Dietary fibers (g): 0
+- Weight (g): 150
+- Explanation: The image shows what appears to be two scoops of ice cream served in a small crystal bowl, with a spoon. There is no visible fruit or whole grains that would contribute dietary fiber or complex carbohydrates; ice cream is primarily a mixture of dairy (contributing fat and some protein), sweeteners which are simple sugars, and added flavors which likely don't significantly alter the macronutrient content. The Swiss Franc coin in the image allows for an approximation of the bowl's size; given the coin's diameter of 23.22 mm, the bowl's diameter can be roughly estimated. The total weight of the meal includes the weight of the ice cream scoops, estimated to be around 150 grams for both scoops together. This is a rough estimate as density and specific ingredients of the ice cream can vary."
+023.jpg,Lasagne and carrots with wine,555,Unbalance,Low quality,2014:10:04 20:17:24,5,30,20,10,3,450,"Simple sugars (g): 5
+Complex sugars (g): 30
+Proteins (g): 20
+Fats (g): 10
+Dietary fibers (g): 3
+Weight (g): 450
+Explanation: The meal consists of a piece of what appears to be meatloaf or a similar meat-based dish, alongside raw carrots. Meatloaf generally contains proteins and fats, with some complex sugars coming from fillers like breadcrumbs, while the carrots provide dietary fibers and a small amount of simple sugars. There isn't a visible sauce that would significantly increase the simple sugar content. The glass contains a dark liquid that could be either a low-calorie diet drink or a regular sweetened beverage; due to the lack of information, I'm considering it a diet drink, thereby estimating low simple sugars. Using the coin for scale, the individual components (meatloaf and carrots) seem to be standard serving sizes. The total weight of the meal, including the meatloaf and carrots, is estimated by visually comparing the size of the items to the coin and considering the density of meat."

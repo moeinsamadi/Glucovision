@@ -1,0 +1,50 @@
+picture,description,calories,balance,quality,datetime,simple_sugars,complex_sugars,proteins,fats,dietary_fibers,weight,message
+001.jpg,Corn flakes and grapefruit juice,794,Unbalance,Low quality,2014:10:01 07:50:07,30,45,5,5,3,350,"- Simple sugars (g): 30
+- Complex sugars (g): 45
+- Proteins (g): 5
+- Fats (g): 5
+- Dietary fibers (g): 3
+- Weight (g): 350
+- Explanation: The image shows a bowl of cornflakes and a glass of what appears to be strawberry or tomato juice. Based on the bowl size, relative to the 1 Swiss Franc coin, it can be estimated that the bowl contains about 100 grams of cornflakes. Commercial cornflakes are usually high in simple sugars because of added sugar. The glass of juice is a sugary drink which could be approximately 250 ml, contributing to the simple sugars total. Cornflakes do have some complex carbohydrates as well but are generally low in protein and fibers. Fats in cornflakes are minimal unless they are coated with something extra. The estimated weight of the meal includes the weight of the cornflakes and the estimated volume of the juice."
+002.jpg,Nestea and wrapped kebab,1160,Unbalance,Low quality,2014:10:01 12:10:03,35,50,20,25,5,600,"- Simple sugars (g): 35
+- Complex sugars (g): 50
+- Proteins (g): 20
+- Fats (g): 25
+- Dietary fibers (g): 5
+- Weight (g): 600
+- Explanation: The meal in the image appears to be a wrapped sandwich, likely to contain meats, vegetables, and possibly sauces, accompanied by a bottled beverage. Given the 1 Swiss Franc coin for scale, the wrap is approximately the length and width of a standard wrap, and the bottle, standard size, is likely to contain roughly 500 ml of liquid. The wrap likely contains complex carbohydrates from the bread, proteins from the meat, some fats, and minimal fibers from the vegetables. The bottled drink is a major source of simple sugars, especially if it's a sweetened beverage. The total meal weight is an estimate based on the visual size comparison with the coin."
+003.jpg,Roast beef sandwich ,1209,Unbalance,Low quality,2014:10:02 12:59:58,5,50,20,20,3,250,"Simple sugars (g): 5
+Complex sugars (g): 50
+Proteins (g): 20
+Fats (g): 20
+Dietary fibers (g): 3
+Weight (g): 250
+Explanation: The sandwich shown in the image appears to contain bread made from refined flour, which is a source of complex sugars. There is also some visible meat that would contribute to the protein content, and the sandwich likely contains some fats from either the meat, any added cheese, or sauce. The visible salad leaves would contribute a small amount of dietary fibers. Given the size comparison with a 1 Swiss Franc coin, the sandwich appears to be a medium portion size. There are no obvious sources of simple sugars like industrial sugars or honey; any simple sugars would come from the vegetables or dressing used. The estimated total weight of the meal seems to be relatively light, as sandwiches like this tend to not be overly dense."
+004.jpg,Scramble eggs,556,Unbalance,Good quality,2014:10:02 20:32:29,1,5,15,10,0,250,"- Simple sugars (g): 1
+- Complex sugars (g): 5
+- Proteins (g): 15
+- Fats (g): 10
+- Dietary fibers (g): 0
+- Weight (g): 250
+- Explanation: The meal appears to be scrambled eggs, which is primarily a protein source. There is no evident source of simple sugars, and the only complex sugars may come from trace amounts in the eggs or any added milk. The fats are mainly from the eggs and any oil or butter used in cooking. There aren't any visible fruits or vegetables on the plate, so dietary fibers are likely negligible or absent. Using the size of the 1 Swiss Franc coin for scale, the overall amount of food appears to be around 250 grams, assuming the plate is a standard size."
+005.jpg,Roast chicken and potatoes,581,Unbalance,Good quality,2014:10:03 13:10:38,2,45,35,25,5,400,"- Simple sugars (g): 2
+- Complex sugars (g): 45
+- Proteins (g): 35
+- Fats (g): 25
+- Dietary fibers (g): 5
+- Weight (g): 400
+- Explanation: The meal consists primarily of roasted chicken and potatoes, with some visible mushrooms. The chicken provides a high amount of protein and some fats, while the potatoes contribute primarily complex carbohydrates and dietary fibers, with a small number of simple sugars naturally present in the potatoes and depending on any possible marinades or seasoning that might contain sugar. No visible sauces or dressings could significantly increase simple sugar content. The mushrooms add minimal calories but some dietary fiber. Using the coin for scale, the meal portions seem moderate, leading to the estimation. The total weight of the meal is estimated considering the coin's diameter and the space it occupies on the plate relative to the food items."
+006.jpg,Lasagne and lettuce and tomato salad,477,Unbalance,Medium quality,2014:10:04 12:39:04,10,60,20,25,5,500,"Simple sugars (g): 10
+Complex sugars (g): 60
+Proteins (g): 20
+Fats (g): 25
+Dietary fibers (g): 5 
+Weight (g): 500
+Explanation: The image shows a portion of what appears to be lasagna with cheese, which is a meal rich in complex sugars due to the pasta sheets made from flour. It also contains a significant amount of protein from the cheese and possibly meat within the layers, and fats from the cheese and the lasagna sauce. There seems to be a side salad that would provide some dietary fibers. No obvious sources of simple sugars are visible unless the sauce has added sugar. The 1 Swiss Franc coin provides a scale, allowing for an estimation of the meal's overall size. The lasagna portion appears to be in a standard-sized individual casserole dish, while the side salad is in a small bowl."
+007.jpg,Breaded fish with stewed eggplant and zuchinni and ketchup and cream,351,Unbalance,Low quality,2014:10:04 20:28:07,5,30,15,20,3,350,"- Simple sugars (g): 5
+- Complex sugars (g): 30
+- Proteins (g): 15
+- Fats (g): 20
+- Dietary fibers (g): 3
+- Weight (g): 350
+- Explanation: The meal appears to include breaded fish sticks and a side of mixed vegetables in a tomato-based sauce, possibly consumed earlier as shown in the container. The fish sticks are a source of proteins and fats, and likely contain some complex sugars from the breading. The vegetable mix has dietary fibers and could contain simple sugars, particularly if there's added sugar in the tomato sauce. The fish sticks are likely the heaviest part of the meal. The Swiss Franc coin gives an understanding of the scale, helping to estimate the meal's size, but without visible standard references for volume or exact portions, precision is limited. The meal's total weight estimation is approximate."
